@@ -1,5 +1,7 @@
 #EOS
 
+[![Join the chat at https://gitter.im/pyfa-org/eos](https://badges.gitter.im/pyfa-org/eos.svg)](https://gitter.im/pyfa-org/eos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/pyfa-org/eos.svg?branch=master)](https://travis-ci.org/pyfa-org/eos)
 [![PyPI](https://img.shields.io/pypi/v/Eos.svg)](https://pypi.python.org/pypi/Eos/)
 
